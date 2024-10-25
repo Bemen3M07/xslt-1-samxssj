@@ -6,9 +6,10 @@
         <h2>My CD Collection</h2>
         <table border="1">
           <tr bgcolor="cyan">
-            <th style="text-align:left">Color</th> 
+            
             <th style="text-align:left">Title</th>
             <th style="text-align:left">Artist</th>
+            <th style="text-align:left">Color</th> 
             <th style="text-align:left">Country</th>
             <th style="text-align:left">Price</th>
           </tr>
